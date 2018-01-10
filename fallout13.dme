@@ -23,6 +23,7 @@
 #include "code\__DATASTRUCTURES\linked_lists.dm"
 #include "code\__DATASTRUCTURES\priority_queue.dm"
 #include "code\__DATASTRUCTURES\stacks.dm"
+#include "code\__DEFINES\_readme.dm"
 #include "code\__DEFINES\admin.dm"
 #include "code\__DEFINES\atmospherics.dm"
 #include "code\__DEFINES\atom_hud.dm"
